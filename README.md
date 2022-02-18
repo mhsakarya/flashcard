@@ -1,2 +1,3 @@
 # flashcard
-Python Flash Card Porject with tkinter GUI, pandas, random
+Python Flash Card Porject with tkinter GUI, 
+Pandas, Random
